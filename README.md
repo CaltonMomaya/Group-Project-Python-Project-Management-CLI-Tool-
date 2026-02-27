@@ -4,12 +4,12 @@ A command-line interface for managing projects and tasks with user authenticatio
 
 ## Features
 
-- 👥 User authentication with password hashing
-- 🔐 Role-based access (Admin/User)
-- 📁 Project management (create, list)
-- 📋 Task management (create, list, update status)
-- 💾 JSON-based persistent storage
-- 🎨 Beautiful CLI output with tabulate
+-  User authentication with password hashing
+-  Role-based access (Admin/User)
+-  Project management (create, list)
+-  Task management (create, list, update status)
+-  JSON-based persistent storage
+-  Beautiful CLI output with tabulate
 
 ## Installation
 
